@@ -1,0 +1,10 @@
+{
+  "name": "feed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Vladan Starcevic",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
